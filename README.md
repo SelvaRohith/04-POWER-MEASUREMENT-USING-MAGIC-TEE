@@ -84,3 +84,4 @@ Coupling between collinear arms and E/H arms (dB) = (A1 – A2) dB
 •	Observation should be taken properly.
 
 **Result:**
+](https://github.com/SelvaRohith/3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR/blob/main/README.md)
